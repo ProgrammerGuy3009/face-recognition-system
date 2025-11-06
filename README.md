@@ -539,6 +539,4 @@ If using this system in research, please cite:
 ## Support
 
 For issues or questions:
-- GitHub Issues: [Link]
-- Email: support@frs-project.com
-- Documentation: [Link]
+- GitHub Issues: https://github.com/ProgrammerGuy3009
